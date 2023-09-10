@@ -35,6 +35,7 @@ export default function Weather(props) {
   }
 
   if (weatherData.ready) {
+    console.log("printing weather details");
     return (
       <div className="Weather">
         <form onSubmit={handleSubmit}>

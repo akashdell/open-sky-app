@@ -14,7 +14,7 @@
   border: 10px solid#9A464E;
   border-radius: 75px;
   box-sizing: border-box;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
   margin-left: 20px;
   margin-right: 20px;
   background-image: url("./assets/white-cloud-blue-sky.jpg");
@@ -37,10 +37,9 @@ body {
   padding: 50px;
   margin-right: 5px;
   border-radius: 15px;
-  background-color: #aae8e0;
   border: 10px solid #e9e488;
-  /* border-radius: 75px; */
   box-sizing: border-box;
+  background-image: url("./assets/sunrise.jpg");
 }
 
 h1,
@@ -63,13 +62,6 @@ h2 {
   font-weight: bold;
   position: relative;
   line-height: 60px;
-}
-.CodedBy {
-  padding-top: 30px;
-  font-weight: bold;
-  font-size: 20px;
-  font-family: serif;
-  color: #e5e1a6;
 }
 .MainDescription {
   color: #ff9642;
