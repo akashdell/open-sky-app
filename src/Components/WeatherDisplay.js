@@ -5,7 +5,7 @@ import WeatherTemp from "./WeatherTemp";
 
 export default function WeatherDisplay(props) {
   return (
-    <div class="bg-img">
+    // <div class="bg-img">
       <div className="WeatherDisplay">
         <div className="row">
           <Icon code={props.data.icon} />
@@ -23,6 +23,6 @@ export default function WeatherDisplay(props) {
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 }

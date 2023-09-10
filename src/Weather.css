@@ -17,7 +17,7 @@
   padding-bottom: 40px;
   margin-left: 20px;
   margin-right: 20px;
-  background-color: #f8ecb2;
+  background-image: url("./assets/white-cloud-blue-sky.jpg");
 }
 .bg-img {
   background-size: 100%;
@@ -37,9 +37,9 @@ body {
   padding: 50px;
   margin-right: 5px;
   border-radius: 15px;
-  background-color: #ffe8d6;
-  border: 10px solid #29817f;
-  border-radius: 75px;
+  background-color: #aae8e0;
+  border: 10px solid #e9e488;
+  /* border-radius: 75px; */
   box-sizing: border-box;
 }
 
